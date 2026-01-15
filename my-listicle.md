@@ -10,11 +10,8 @@
 - [Lemon](https://cdn.pixabay.com/photo/2019/05/30/12/53/lemon-4239861_1280.jpg)
 
 ## Blue
-- [Blueberry](https://cdn.pixabay.com/photo/2022/05/09/16/34/blueberries-7184897_1280.jpg)   
+- [Blueberry](https://cdn.pixabay.com/photo/2022/05/09/16/34/blueberries-7184897_1280.jpg)
 
-
-
-
-   
+<br>
 
 **Honorable Mention**: [Kiwi](https://cdn.pixabay.com/photo/2022/09/15/15/14/fruit-7456645_1280.jpg)
