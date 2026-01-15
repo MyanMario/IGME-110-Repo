@@ -1,5 +1,4 @@
 # Some Pretty Cool Fruits
----
 
 ## Red
 - [Apple](https://cdn.pixabay.com/photo/2014/02/01/17/30/apple-256268_1280.jpg)
@@ -12,5 +11,6 @@
 
 ## Blue
 - [Blueberry](https://cdn.pixabay.com/photo/2022/05/09/16/34/blueberries-7184897_1280.jpg)
+
 
 **Honorable Mention**: [Kiwi](https://cdn.pixabay.com/photo/2022/09/15/15/14/fruit-7456645_1280.jpg)
